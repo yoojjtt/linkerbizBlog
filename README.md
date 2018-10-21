@@ -1,0 +1,2 @@
+# linkerbizBlog
+blog from linkerbiz
